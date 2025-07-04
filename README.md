@@ -2,8 +2,8 @@
 
 **`!Polymath(Web/Mobile/Developer)**
 
-I'm an indie full stack web/mobile application developer, who has a little bit of professional work experience, and currently freelancing.
-Building myself and my own version of digital world one block at a time. And I always try to do things from scratch.
+I'm an indie full stack web/mobile application developer, has a little bit of professional work experience, and currently freelancing.
+Building myself and my own version of digital world one block at a time.
 
 ### 🧰 Languages and Tools
 
